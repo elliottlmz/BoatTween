@@ -1,0 +1,6 @@
+[package]
+name = "BoatTween"
+author = "boatbomber"
+license = "UNLICENSED"
+version = "0.0.0"
+content_root = "./src/BoatTween"
